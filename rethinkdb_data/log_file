@@ -1,0 +1,13 @@
+2018-04-02T15:42:37.978798434 0.061059s notice: Recursively removing directory /home/vistrible/??????????????????/Magic of Programming/MoP-server/rethinkdb_data/tmp
+2018-04-02T15:42:38.002439507 0.084699s notice: Initializing directory /home/vistrible/??????????????????/Magic of Programming/MoP-server/rethinkdb_data
+2018-04-02T15:42:38.002532639 0.084792s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/vistrible/??????????????????/Magic of Programming/MoP-server/rethinkdb_data' did not already exist or is empty.)
+2018-04-02T15:42:38.002568039 0.084828s notice: Running rethinkdb 2.3.6~0zesty (GCC 5.4.1)...
+2018-04-02T15:42:38.007681954 0.089944s notice: Running on Linux 4.13.0-37-generic x86_64
+2018-04-02T15:42:38.007750335 0.090010s notice: Loading data from directory /home/vistrible/??????????????????/Magic of Programming/MoP-server/rethinkdb_data
+2018-04-02T15:42:38.306352299 0.388612s info: Automatically using cache size of 676 MB
+2018-04-02T15:42:38.327053199 0.409313s error: TCP socket creation failed for port 29015: Address already in use.
+2018-04-02T15:42:50.342301210 0.012026s notice: Running rethinkdb 2.3.6~0zesty (GCC 5.4.1)...
+2018-04-02T15:42:50.347613472 0.017341s notice: Running on Linux 4.13.0-37-generic x86_64
+2018-04-02T15:42:50.348719824 0.018445s notice: Loading data from directory /home/vistrible/??????????????????/Magic of Programming/MoP-server/rethinkdb_data
+2018-04-02T15:42:50.459688377 0.129413s info: Automatically using cache size of 691 MB
+2018-04-02T15:42:50.461422300 0.131147s error: TCP socket creation failed for port 29015: Address already in use.
